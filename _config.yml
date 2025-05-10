@@ -10,7 +10,7 @@ theme: THEME-NAME
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "TINGTING CHEN(Arya)'s Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
